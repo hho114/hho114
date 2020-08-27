@@ -1,4 +1,4 @@
-### Hi I'm Alex 👋 👨🏻‍💻
+### Hi I'm Alex  👨🏻‍💻 :rocket: :metal: :octocat: 
 
 <!--
 **hho114/hho114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on React JS and Flutter
+- 💬 Ask me about Flutter and React JS
+
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
