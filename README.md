@@ -2,7 +2,7 @@
 
 <h1 align="center">A passionate full stack developer</h1>
 
-<p align="center">
+
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 I’m currently working on [Dump The Bump](https://play.google.com/store/apps/details?id=edu.fullerton.hhdPostpartum)
@@ -18,7 +18,7 @@
 - 📫 How to reach me **huyho114@gmail.com**
 
 - ⚡ Fun fact **Workout boost creative**
-</p>
+
 
 ----
 <h2 align="center">Languages and Tools</h1>
