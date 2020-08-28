@@ -10,15 +10,16 @@
 
 - 🤔 My current interests are **web development, mobile development, machine learning, data analysis, and software engineering, etc...**
 
-- 🌱 I’m currently learning more about React JS.
+- 🌱 I’m currently learning more about React JS and Swift.
 
-- 👯 I’m also looking to collaborate on **Any Flutter and React JS**
+- 👯 I’m looking to collaborate on weird ideas that would be least helpful
 
 - 💬 Ask me about anything, I am happy to help.
 
 - 📫 How to reach me **huyho114@gmail.com**
 
-- ⚡ Fun fact **Workout boost creative**
+- ⚡ Fun fact:
+Four states of programmer progress: Complex Programming -> Making Progress -> Slow Progress -> Stuck
 
 </p>
 
