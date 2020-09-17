@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **huyho114@gmail.com**
 
-- ⚡ Coding recipe: Google -> <what I want my app to do> + <which programming language> + <Which resource> -> 🤩
+- ⚡ Coding recipe: Google -> *what I want my app to do* **+** *which programming language* **+** *Which resource* -> 🤩
 
 </p>
 
