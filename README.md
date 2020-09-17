@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **huyho114@gmail.com**
 
-- ⚡ Fun fact: Four states of programmer progress: Complex Programming -> Making Progress -> Slow Progress -> Stuck
+- ⚡ Coding recipe: Google -> <what I want my app to do> + <which programming language> + <Which resource> -> 🤩
 
 </p>
 
