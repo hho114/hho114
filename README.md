@@ -6,7 +6,7 @@
   
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working on [Dump The Bump](https://play.google.com/store/apps/details?id=edu.fullerton.hhdPostpartum)
+- 🔭 I’m currently working at [Recovery Trek](https://www.recoverytrek.com/)
 
 - 🤔 My current interests are **web development, mobile development, machine learning, data analysis, and software engineering, etc...**
 
