@@ -10,7 +10,7 @@
 
 - 🤔 My current interests are **web development, mobile development, machine learning, data analysis, and software engineering, etc...**
 
-- 🌱 I’m currently learning more about React JS, Kotlin and Swift.
+- 🌱 I’m currently learning more about React JS, Kotlin, and Swift.
 
 - 👯 I’m looking to collaborate on weird ideas that would be least helpful
 
