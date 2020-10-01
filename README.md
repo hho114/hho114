@@ -1,4 +1,4 @@
-# Hi I'm Alex :rocket: :octocat: 
+# Hi I'm Alex :octocat::rocket: 
 
 <h1 align="center">A passionate full stack developer</h1>
 
