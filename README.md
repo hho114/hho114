@@ -30,6 +30,6 @@
 
 <p align="center">
 <a href="https://twitter.com/alexho114" target="blank"><img align="center" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" alt="alexho114" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/hho114" target="blank"><img align="center" src="https://assets.stickpng.com/images/58e91afdeb97430e81906504.png" alt="hho114" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/hho114" target="blank"><img align="center" src="https://banner2.cleanpng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" alt="hho114" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/huyalexho" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" alt="huyalexho" height="30" width="30" /></a>
 </p>
