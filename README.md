@@ -29,8 +29,9 @@
 
 
 
- <h2 align="center">Social Media</h1>
+ <h2 align="center">Other Platforms</h1>
  <p align="center">
+ <a href="https://gitlab.com/hho114" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" alt="hho114" height="30" width="30" /></a>
 <a href="https://twitter.com/alexho114" target="blank"><img align="center" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" alt="alexho114" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/hho114" target="blank"><img align="center" src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" alt="hho114" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/huyalexho" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" alt="huyalexho" height="30" width="30" /></a>
