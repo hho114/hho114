@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently loading ...
 
-- 🤔 My current interests are **web development, mobile development, machine learning, data analysis, and software engineering, etc...**
+- 🤔 My interests are **web development, mobile development, machine learning, data analysis, and software engineering, etc...**
 
 - 🌱 I’m currently learning more about React JS, Python.
 
