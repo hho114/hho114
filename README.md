@@ -10,7 +10,7 @@
 
 - 🤔 My interests are **web development, mobile development, machine learning, data analysis, and software engineering, etc...**
 
-- 🌱 I’m currently learning more about SwiftUI and Python.
+- 🌱 I’m currently learning more about Backend and Python.
 
 - 👯 I’m looking to collaborate on weird ideas that would be least helpful
 
