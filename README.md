@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **huyho114@gmail.com**
 
+- 👍 Support me, [buy me a coffee](https://www.buymeacoffee.com/hho114)
+
 - ⚡ Coding recipe: Google -> *what I want my app to do* **+** *which programming language* **+** *Which resource* -> 🤩
 
 </p>
