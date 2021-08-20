@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning more about Backend and Python.
 
-- 👯 I’m looking to collaborate on weird ideas that would be least helpful
+- 👯 Hire me, [Upwork](https://www.upwork.com/freelancers/~01e9d23b13376fd806/)
 
 - 💬 Ask me about anything, I am happy to help.
 
