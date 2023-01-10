@@ -38,9 +38,7 @@
 
 
 
- <h2 align="center">Other Platforms</h1>
+ <h2 align="center">My Portfolio</h1>
  <p align="center">
- <a href="https://gitlab.com/hho114" target="blank"><img align="center" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="hho114" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/hho114" target="blank"><img align="center" src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" alt="hho114" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/huyalexho" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" alt="huyalexho" height="30" width="30" /></a>
+ <a href="https://alexhuyho.com/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv_edpmFGeIq7_tMLCO3OIe68EoUp4N8A2A&usqp=CAU" alt="" height="100" width="100" /></a>
 </p>
