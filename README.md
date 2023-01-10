@@ -1,6 +1,9 @@
-# Hello there ... :octocat::rocket: 
 
-<h1 align="center">I am a passionate full stack developer</h1>
+<h1  align="center" >
+  Hello
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <br>I am a passionate full stack developer
+</h1>
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/hho114/">
