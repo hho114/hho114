@@ -2,7 +2,7 @@
 
 <h1 align="center">I am a passionate full stack developer</h1>
 
-<div id="badges">
+<div align="center" id="badges">
   <a href="https://www.linkedin.com/in/hho114/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+<br>
 
 <p align="left">
   
