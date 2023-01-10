@@ -17,7 +17,7 @@
 
 <p align="left">
   
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right"  width="250px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🤔 My interests are **web development, mobile development, machine learning, data analysis, and software engineering, etc...**
 
@@ -28,8 +28,6 @@
 - 📫 How to reach me **huyho114@gmail.com**
 
 - 👍 Support me, [buy me a coffee](https://www.buymeacoffee.com/hho114)
-
-- ⚡ Coding recipe: Google -> *what I want my app to do* **+** *which programming language* **+** *Which resource* -> 🤩
 
 </p>
 
