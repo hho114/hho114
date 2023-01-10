@@ -1,6 +1,19 @@
-# Hello there ... :octocat::rocket: 
 
-<h1 align="center">I am a passionate full stack developer</h1>
+<h1  align="center" >
+  Hello
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <br>I am a passionate full stack developer
+</h1>
+
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/hho114/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCOuT_FD9KGs_AtQnS935E5g">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+<br>
 
 <p align="left">
   
