@@ -6,13 +6,9 @@
   
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m loading ...
-
 - 🤔 My interests are **web development, mobile development, machine learning, data analysis, and software engineering, etc...**
 
-- 🌱 I’m currently learning more about Backend and Python.
-
-- 👯 Hire me, [Upwork](https://www.upwork.com/freelancers/~01e9d23b13376fd806/)
+- 🌱 I’m currently learning more about Machine Learning.
 
 - 💬 Ask me about anything, I am happy to help.
 
