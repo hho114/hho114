@@ -2,7 +2,7 @@
 <h1  align="center" >
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <br>I am a passionate full stack developer
+  <br>I am a passionate software engineer
 </h1>
 
 <div align="center" id="badges">
