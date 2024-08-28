@@ -27,8 +27,6 @@
 
 - 📫 How to reach me **huyho114@gmail.com**
 
-- 👍 Support me, [buy me a coffee](https://www.buymeacoffee.com/hho114)
-
 </p>
 
 <h2 align="center">Languages and Tools</h1>
