@@ -17,7 +17,7 @@
 
 <p align="left">
   
-<img align="right"  width="250px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right"  width="250px" alt="GIF" src="https://i.gifer.com/XOsX.gif" />
 
 - 🤔 My interests are **web development, mobile development, machine learning, data analysis, and artificial intelligence**
 
